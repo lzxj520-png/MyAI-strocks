@@ -85,3 +85,5 @@ push:
   dingtalk: { enable: false }
   feishu: { enable: false }
   email: { enable: false }
+
+# force trigger test
